@@ -1,1 +1,0 @@
-# SSS3000R-Group5-plant-Disease-Detection
