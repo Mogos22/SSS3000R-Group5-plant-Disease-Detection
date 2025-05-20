@@ -16,6 +16,5 @@ apple class =
 
 AppleBlackrot
 AppleHealthy
-Tomato_healthy
 AppleScab
 Cedarapplerust
