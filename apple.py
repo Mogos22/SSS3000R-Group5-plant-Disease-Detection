@@ -14,7 +14,7 @@ class apple:
         #definere ekiketter for tomatskdom
         #input_img = preprocess_image(images_path) Two-spotted_spider_mite
         #if input_img is not None:
-        self.class_labels = ["AppleBlackrot", "AppleHealthy", "Tomato_healthy",
+        self.class_labels = ["AppleBlackrot", "AppleHealthy",
                                 "AppleScab","Cedarapplerust"] 
         # lagre tekst til tale-funksjonen
         self.text_to_speech = text_to_speech_func
